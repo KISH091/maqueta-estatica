@@ -1,0 +1,37 @@
+.bg-black{
+    background-color: rgb(0, 0, 0);
+}
+
+.list-group{
+    --bg-list-group-bg:transparent;
+}
+
+.logoAp{
+    filter: invert(2);
+}
+
+.imgPerfil{
+    width: 200px;
+    height: 250px;
+}
+
+li {
+    list-style-type: none;
+    margin-left: -3.5%;
+}
+
+.nombrePerfil{
+    font-size: 3rem;
+}
+
+.video{
+    margin-top: 7rem 2rem 0rem 20rem;
+}
+
+#sobre{
+    background-color: blueviolet;
+}
+
+body{
+    background-image: url(/assets/images/fondocolor2.jpg);
+}
